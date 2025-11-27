@@ -1,0 +1,12 @@
+Model: log_reg
+Accuracy: 0.7838
+ROC AUC: 0.8154090119347839
+
+              precision    recall  f1-score   support
+
+           0     0.7595    0.7595    0.7595       944
+           1     0.8036    0.8036    0.8036      1156
+
+    accuracy                         0.7838      2100
+   macro avg     0.7816    0.7816    0.7816      2100
+weighted avg     0.7838    0.7838    0.7838      2100

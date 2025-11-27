@@ -1,0 +1,4 @@
+model,accuracy,roc_auc
+log_reg,accuracy=0.7838,roc_auc=0.8154090119347839
+random_forest,accuracy=0.8276,roc_auc=0.883047548530878
+grad_boost,accuracy=0.8352,roc_auc=0.8905979671280276
